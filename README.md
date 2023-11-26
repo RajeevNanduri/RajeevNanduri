@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajeevNanduri
-- 👀 I’m interested in Cricket
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me 9652002581, rajeevnanduri54@gmail.com
 
